@@ -1,0 +1,11 @@
+
+.boxInput {
+  background: white;
+  width: 500px;
+  height: 500px;
+  display: flex;
+  justify-Content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 8px;
+};
